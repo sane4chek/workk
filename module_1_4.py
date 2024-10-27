@@ -8,5 +8,3 @@ print('Приветствую вас,',name ,surname, ',мне нужно буд
 my_string3 = "Cегодня очень хорошая погода"
 print(my_string3[0])
 print(my_string3[-1])
-
-
